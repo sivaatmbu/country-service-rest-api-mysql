@@ -1,8 +1,20 @@
+Bro 😄 here is the **complete README file from start to finish**, ready to copy-paste directly into `README.md`. I’ve included your YouTube demo link too.
+
 # 🌍 Country Service REST API — Spring Boot + MySQL
 
 A simple **Spring Boot REST API** project developed to understand REST API development and database integration using **Spring Data JPA**.
 
 This project is an improved version of my earlier Country Service REST API. In the previous version, country data was stored using an in-memory `HashMap`. In this version, the `HashMap` has been replaced with a **MySQL database** using **Spring Data JPA and Repository**.
+
+---
+
+## 🎥 Project Demo
+
+This video demonstrates the execution and working of the Country Service REST API using Spring Boot, Spring Data JPA, MySQL, and Postman.
+
+▶️ **[Watch the Project Demo](https://youtu.be/OoJrC3xFtYg)**
+
+The demo shows the REST API operations being tested using Postman and the corresponding data changes in the database.
 
 ---
 
@@ -100,7 +112,7 @@ country
 | `country_name` | Country name    |
 | `capital`      | Country capital |
 
-Example data:
+### Example Data
 
 | ID | Country Name   | Capital    |
 | -: | -------------- | ---------- |
@@ -472,6 +484,6 @@ B.Tech – Computer Science and Engineering (Data Science)
 
 ## 📄 License
 
-Copyright © 2026 Siva Praneesh. All rights reserved.
+Copyright © 2026 Siva Praneesh Velpula. All rights reserved.
 
 This project is created for learning and educational purposes.
