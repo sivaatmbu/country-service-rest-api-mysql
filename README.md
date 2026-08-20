@@ -1,5 +1,3 @@
-Bro 😄 here is the **complete README file from start to finish**, ready to copy-paste directly into `README.md`. I’ve included your YouTube demo link too.
-
 # 🌍 Country Service REST API — Spring Boot + MySQL
 
 A simple **Spring Boot REST API** project developed to understand REST API development and database integration using **Spring Data JPA**.
